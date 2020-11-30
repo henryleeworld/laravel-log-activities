@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://imgur.com/crGK4wi)
+![](https://imgur.com/crGK4wi.png)
 > 記錄所有自訂追蹤的行為
