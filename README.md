@@ -1,4 +1,4 @@
-# Laravel 8 紀錄活動
+# Laravel 11 紀錄活動
 
 引入 spatie 的 laravel-activitylog 套件來擴增記錄使用者的所有活動記錄。這個套件可以很方便的記錄你的使用者何時何地的建立、更新實體的記錄。外加，現在這個包還可以記錄多個版本的實體間資料的變更。
 
@@ -21,10 +21,10 @@ $ php artisan key:generate
 $ php artisan migrate
 ```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
-- 你可以經由 `/` 來進行首頁瀏覽。
+- 你可以經由 `/` 來進行歡迎頁面瀏覽。
 
 ----
 
 ## 畫面截圖
-![](https://imgur.com/crGK4wi.png)
+![](https://imgur.com/TvARHki.png)
 > 記錄所有自訂追蹤的行為
